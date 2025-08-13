@@ -133,7 +133,7 @@ type YoudaoResult struct {
 			Url  string `json:"url"`
 		} `json:"source"`
 
-		Word struct {
+		Word []struct {
 			UsPhone  string `json:"usphone"`
 			UkPhone  string `json:"ukphone"`
 			UkSpeech string `json:"ukspeech"`
