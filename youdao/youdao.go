@@ -394,7 +394,7 @@ type Youdao struct {
 func New(query, lang string) *Youdao {
 	return &Youdao{
 		Query: query,
-		Lang:  "en",
+		Lang:  lang,
 	}
 }
 
