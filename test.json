@@ -1,0 +1,1827 @@
+{
+    "web_trans": {
+        "web-translation": [
+            {
+                "@same": "true",
+                "key": "advanced",
+                "key-speech": "advanced",
+                "trans": [
+                    {
+                        "summary": {
+                            "line": [
+                                "...习卡4个月内有效，逾期课时作废），本课程由于课程活动灵活度较高，因此不设试听、补课、转班、延 期等相关服务.<b>高级</b>（ADVANCED）（外教）：进一步学习英语的<b>高级</b>词汇和商务、生活习语，练习为母语人士常用而相对复杂的语法结构，口语纯熟、发音标准，能够看懂..."
+                            ]
+                        },
+                        "value": "高级",
+                        "support": 4626,
+                        "url": ""
+                    },
+                    {
+                        "summary": {
+                            "line": [
+                                "... 址的伤是不足虑的，以必博最新备用网址的无与伦比的自律程度，以必博最新备用网址的无与伦比的勤奋程度，以美国的<b>先进</b>(<b>Advanced</b>)的医疗手段，以丫梨像对待印钞机一样对于必博最新备用网址的珍爱，以姚明从大Z等明星中鉴戒的恢复办法，特别是必博最新备用网址大..."
+                            ]
+                        },
+                        "value": "先进",
+                        "support": 2850,
+                        "url": ""
+                    },
+                    {
+                        "summary": {
+                            "line": [
+                                "...章内文和标题的字体、文本和背景的颜色、文本对齐的方式、分段的样式(空行还是缩进)、页面宽度、缩放比例. 2.<b>高级设置</b>(<b>Advanced</b>):如果对于 基本设置能做到的修改还不够满意,还可以通过<b>高级设置</b>进行更自由的更改,只要你懂一些 CSS 就应该不是难题,修改后还可以按..."
+                            ]
+                        },
+                        "value": "高级设置",
+                        "support": 1650,
+                        "url": ""
+                    },
+                    {
+                        "summary": {
+                            "line": [
+                                "<b>Advanced</b>(<b>高级选项</b>)：笔者以为此处的<b>高级选项</b>对软体的施用并无多大的帮助，所以资处不再赘述。"
+                            ]
+                        },
+                        "value": "高级选项",
+                        "support": 688,
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "key": "Advanced Materials",
+                "key-speech": "Advanced+Materials",
+                "trans": [
+                    {
+                        "value": "先进材料"
+                    },
+                    {
+                        "value": "高级材料"
+                    }
+                ]
+            },
+            {
+                "key": "Advanced Micro Devices",
+                "key-speech": "Advanced+Micro+Devices",
+                "trans": [
+                    {
+                        "value": "超微半导体"
+                    },
+                    {
+                        "value": "超微"
+                    },
+                    {
+                        "value": "超威半导体"
+                    },
+                    {
+                        "value": "超微半导体公司"
+                    }
+                ]
+            },
+            {
+                "key": "Advanced Audio Coding",
+                "key-speech": "Advanced+Audio+Coding",
+                "trans": [
+                    {
+                        "value": "高级音频编码"
+                    },
+                    {
+                        "value": "先进音频编码"
+                    },
+                    {
+                        "value": "高级音频编码技术"
+                    },
+                    {
+                        "value": "先进的音频编码"
+                    }
+                ]
+            },
+            {
+                "key": "Advanced Placement",
+                "key-speech": "Advanced+Placement",
+                "trans": [
+                    {
+                        "value": "大学先修课程"
+                    }
+                ]
+            },
+            {
+                "key": "Advanced Options",
+                "key-speech": "Advanced+Options",
+                "trans": [
+                    {
+                        "value": "高级选项"
+                    },
+                    {
+                        "value": "高级设置"
+                    },
+                    {
+                        "value": "增强定制选项"
+                    },
+                    {
+                        "value": "高级选项设置"
+                    }
+                ]
+            },
+            {
+                "key": "at advanced levels",
+                "key-speech": "at+advanced+levels",
+                "trans": [
+                    {
+                        "value": "在高级范围内"
+                    },
+                    {
+                        "value": "在高等范畴内"
+                    },
+                    {
+                        "value": "在高级规模内"
+                    },
+                    {
+                        "value": "在高级范畴内"
+                    }
+                ]
+            },
+            {
+                "key": "Advanced Encryption Standard",
+                "key-speech": "Advanced+Encryption+Standard",
+                "trans": [
+                    {
+                        "value": "高级加密标准"
+                    },
+                    {
+                        "value": "先进加密标准"
+                    },
+                    {
+                        "value": "算法"
+                    },
+                    {
+                        "value": "加密标准"
+                    }
+                ]
+            },
+            {
+                "key": "advanced technology",
+                "key-speech": "advanced+technology",
+                "trans": [
+                    {
+                        "value": "先进技术"
+                    },
+                    {
+                        "value": "技术先进"
+                    },
+                    {
+                        "value": "先进的技术"
+                    },
+                    {
+                        "value": "高级技术"
+                    }
+                ]
+            },
+            {
+                "key": "advanced worker",
+                "key-speech": "advanced+worker",
+                "trans": [
+                    {
+                        "value": "先进工作者"
+                    },
+                    {
+                        "value": "先进工"
+                    },
+                    {
+                        "value": "进步前辈工作者"
+                    },
+                    {
+                        "value": "进步工作者"
+                    }
+                ]
+            }
+        ]
+    },
+    "oxfordAdvanceHtml": {
+        "encryptedData": "Oi7q_uLf41Op8q1BEZge7AaqKJM17DSt_ReKlwt7eUPcHao9OEimvTR627q0N81S_CFkNuyJ3CvmQ08QEA4XANqON7uhc5BSZFVyhzy-d9AjvrUgBipEUEubGjE6sg61ItbISTuOUc1t0MzvdsKgeHXt7UqzzhO2lRoql8oXGC5ahlilLislaMIh5LlswgElHLi7qh_mu6KAf4_WgxUZEgHP_tk9am75QWpJo1ObqqI2Ap55jb57z8R6SzUBioEMcrSvJJdMmK0fCXXH1ZYLD7Pfgq6Rpk1jhHAi3joSXD2J6MMaRCiWgc7WSypcfL4YSfwJ3ZSkVr2_79A_4ZvErddf1xiH1EcbEr6RMCeBSAN71qNxJjh6wLKV0P6FmnhC0wcq5bKqVHDf78ETcXl95CBSsAUmF0X1xlgOscnXHHt_z7MHu9IXUxsQn6u0ILqGyPvO5fM5GrWVZUnZPJizCuo-yYiFNVHPl4EHVVpTH9szLFwRVM10WUWxlgJGFdXadekD9wA8uuMXvdBKBsZXzn3lZm7p7I1WynZtrVAukRQ15aBDcNCm0gW78bYolpyjyd-BaEer1zpQ4BnazQACL-VgZBzwx5crT9tn7Qb-E_4PdaSAgcyUXaf2qcq58ldjFbYv26arK1J1qGr6r6KYNkO0mmAWkAN1WAQzUeiYQEe01qx4XQMSv5Q7vyUkGA655M45v6FmYTS8DeLWuyBYuTyrCRb4OzUYKynb45Inm5y_JXJT1g_o1PUTqEqDM_89UTAOZxxnyb71l-gJI9tEZqiCCt_H8WR4ttw5oxT12NlrsAZo-25ip8YrXLCV8iI6d7g-8Zic3LpVzuY4GaaPG5xShDp0NHg93eFCfJaZFzxk7fREV1eEW2nrgJhDq9hmXGwQm5ZqK6eSImj8mcRYukLDO6h6LfMVECoiypAHOvEr1v7u2tPb0zySni0xXNPCtquanoLtfDANQflF6iUx1jiFqjh_yaZiByfQMQkdM6Izck4s4os-QgTa7eg4p8Y7tML4gfNzgiKs5OT9ljEsars543t3LqcET1Wy1ITFf3rqMfq6kqnMnZtVdxm1j2wuFGeOgET3bwuZfEQ5eU7Z7EM29wmgNGyaJnKKKBj_q1VKEmZUR-3ANigt5YZJ0MeAjJXnON_NmmftmgRlFax4OplKqxQpjqhLElX8lGgQjUoo5osV0Ng4mQsqOmi8jkbJUkhz0pMV7CaEC46MpLYPPzQj2Mv70Yo5rU7HVlNayXavb68aKWWSWtWj8X2yT11oAuqdo53AdZOKGrxH8bZzJ0MU5hAjJJn1Mg7rgy1DF0IlvOMp2UOTzrnPssAzwxrsYvPsA2MVVDpsBbFIYGOqoPeLNjAp-2DnNP-0Sw1hsOUs3ANbSMNz406PX9XZo4wex2i-l2hNXyONYe3niH3fq6jfuO0wOM4aNbtVMEPxZJlM7hbGXB-nOxB36P12TwgCihhV8E5bFo5PzAjLTefUXaoXwuW5lFB_5OBllc9FZTxpb-flqm9uam7lBZI_WD7bgycyyVYIQIFW7PgAZPt7J2fMfbaDpr2x4V1F2eL6chklhpQ_wjxU_0QyUDX6aMgcfOniE_uEijuONmwPFeksYcq2RZOGmixmvrg55q5JTgfb2lgTZDWNsc-KZUX-DE2zimKKMkQFCCkwCZHkij790-WrPxUNzcmYqPI7tgi52OAFvDvPCFbAq6ufEm3zWheS8506IGfjH7qMVm8nGI91EakXMccWSr4smG_bWEtiylwTrgBm2lKn7JUut2LewIh3k8sS9iH51zDKPwTjfpQDE5g5hp7_lIz0BegWMVUoBmto5Y1e35fM3gxr1-aTDcID47qlXHtubEUwIthNtR1lDI_XLH-9Oj33x-sXmA70i-XFeUBPxp_X40UKmfHphR27XhxWf8togjjXxIIsax9y90L8n3oHUUie9WQNz2woksN0OEJyQlNm1Ro0Bj9lKKnrGFFAFf-dz2yMJQvd9ZNfk-clZpeWzJsjIEMzurRMMfRdY6fcm7368kZ1E-o6JRlMfLO9a1mCMWS0x-OEzNTp7KgwLueniDzRAOAElZdgr3rqfkTjBQ708z531R8ROsv0-eQevRgemjPJB2v2NfiTabCVU592nyAmmSot1nYyqJLn4rA105L0Zr_cb9mqTADECSf-PtPtyvJ5za0in7YnAzvGq7Bmx2yPfKlRIy8w3PpS5m3-fv7vrDIRn4JAksKk3sW-0eJuPksjksGHgGAmvgQcn7q7DUXclC0-ZZZJtd-5xic9E-334eKKWdgzxu4Vwzl-S9d9-mxoj0Ta-dbKZSH3cGdZkG2IXjBCSiM9sxF0OKt9z-5zP6pz_ngvCHsFQOTbikDS-2p3MuklugHJfD33QfQLKmo8G-rOtOWUDtpWFTlNy1A-TqUqJ7AqK0PdBJb5dOMmpEDQdO6P32LnByU5iNH6AExMClga3USVaFmK8SHLbajSQV2naIUTaJEM36X_NFvHvvQu14FtJMiHxuuTXX2lyYaEu05g-37hkbJLT2B2_MHTExcLpC-LTW3nU4IuJJZWousJzxNGBld1xvVsNHBX0MpZ6j6plzcxUYeHzya9Vb0pQgr21gCQql5ZJ4jyurO4DJQ7hGLNorH7tt-xFdVAFfiPRHg0LvP_97UMIYtbwA2IqSHX4es6yQ8BoFsgkH2b1c33BrWcSq1dewdAGjHC7m6d7ERAmtvXZxU8Dk-mQwiPiKcl7vxlD8rstEF138V1-JxeTjDAjXtTPBTSFBsW45LNqaFmH3_wl63AoADZ79V3Zbo0P-DCKvuFL5eaKAdrwEpylUMK3y2iT1ctRXU_IfQUXvzvI5iZeUh2Xvsx9RmnLffIM1tZ2Q5tJLYhqHXe6Psbh4x30RbRz0QqHholUfs0NMguhgNwi5sU93I2D-qhNqzcBnN_2cwM8MhJlPp_Y-7HBrBpbqZd4dyzyCrmCAro3ePmSsmNxSs62wCFYOo4MHLJJ9CEfpSAMOfGHXkSSGGSN8Y9T7q5rFOS8LOUB7ondn5VOmciQx-KCEVjTGSxbfmO04wyuIoP8MYs8i8tDVM__2jXd2SQ3FMWqL6v3dVp2K6SLkQzdtzOm6FC_AzlFyMH60R-ajbqK_2DD4BRcmvUFXj3ojxE-BDRLjGGAWsSpffL_RWnxm2oH3OJG0nNswWQzfrQcWEnSsT73aoYh0u8TWmyCHATswBlICJ2neEFJBB6OOPEfq_ewRzKOj4VIhZMtfG7-02uOAOkavs5ioTV3FZaW4X_3FOice1Cjc4vLegBaybq4hxKYeKTh2PsHFB3yIFS0vDzOo1HGK2b79SyGS4sxQmg2OBXL4HrYz53wUvF1-X0Fxf_lihhMTxqMuSBg3g5utmy2h5loWaRJlDD5i_JJQ-00808VgryIL4riJ0cPcK5NB-ny7HE4FMi6csITqZ7SPfJ-46SHovYMVmNoGKpi4usSsDi_2js0JnM6xaQ4Qyt2ItX0R574yi5PFZud0aCVwau6ZHQs65BMdLLv7ESEmAehbBwJ44P2NUbJNIZ0ckCCN23O7VViluFlo9nKqj01kQMcHPdtMF-LWgfCkjtLchibNcC3XhI09QnPxYw73f7SSbju_64vhJd__SPbtbLevq1Ln-ES3K6yA2KPy4YvFtEyiJ8_YP1tDHnLdEPKv5zJemRAwBhHXIvz7M8aXXj-FPz9AiPhsYD6rRz-Ne7qOPConnqIl9L75DwxlJA7WPpDyALTIwRnHVPbFd7_BuFwdSR3VaG6kpZFzgGdMkxJm0mEBDg3Z-1mrc0axW35i_-1fhq1DAGSNxcSQKZuVmfVMxEcYArD1WfF3E6rU-DFGGFd3D6rzi56kOlOzpTnrS80DmzHkrgbN_7moGjIe-syHe5-grXeO6ON8xC6vK_-BIisqHl4DBxkh3muZl4wJub5Yba5GHjMkEiCHG6bZySm_nwxYq4EofnJKv1Re1lzLJf5Mu8zjkIehcDD4ekdioatZoT2mgrYIAkLdd4NgSSK9nSIHygF55qX-vFKwmVJPKZEkhW9sAhF2mAppNkGhV6gOvlddF1T12txV9T_uBoJOzqT6mGKiteBkFIefUPS-TmYjff2mL2OVtpbyEAzD8UuOFPTu8knN08nRD9Bq8sbghtfMmnMzIYK3gPCgIxuo4IqDiYHx70E9hAGbMJ6wgSTPudnROMlpDEjTBu-lnaQq0jcgOjZ30AH6C59CcGD2Zo6_aKQG10tovy0hJ2vzsfwCuGdIsINeVnF2pUgjeixuQMEoJ9JeAisat51xcmcP6z_v0WZYeHDBg7-eGkrm59siFuWFIqzCpdqiPC9I1jPm_fM-yjFBprVUvMq_zs3douWuFPYJeK2Iv687qMChWZyhRUP7Gq88JtwziwuJdt-TB3ZKCFa9Y4wFDlm6X1DSiz4ITqOWfeUDmAnO-fttVmRma6h_AK95pHeuulh8CR_fvT5rlbdubOMjQ9Pn9P8Q1cpaKncgJfoqLysDksqpC8tROMQDglwDEVs1dcXB1b0fH1ENgp1XvSB1Ri5T1sC6BDnzOYc9wsd8On7gNdMFe35d1SG3zFAvOwXjSK2-89iCly6Zqqg8rkO_43Rrasy31EAvg3jh1YuJKbFkJ8x9_DQJi-fAjpv5NFLIN5oZcIvGhd3-NhIsshypYMiV6bz20FVvX5AoecfF9KM3uM6DJ241MKmKgTQAOwVTlTxpq4fLat8TaBciSJEw0RXJj0IqOIVdE3_9738I6iU_jpXytm3aePW2LLyTLqEY2EFG88uPh8DBfFkZ573HMrKKEtN3JYbB6AckMae-9xZwZ36it4b7thR5p3Fd0idDRQaucXIqi5TTujMh_V6_t9BS7D4s039ThGbGYJRwi7dVDtB0u1lpMRAtrXEAVMgBosFT41YY_gZVK0xdTY36h2LmG2BAxdZSizPis7Vq8858KHzS9EUJE="
+    },
+    "video_sents": {
+        "sents_data": [
+            {
+                "video_cover": "https://ydschool-video.nosdn.127.net/2dfbf798-04f6-4d1c-863e-19e570fb2523.jpg",
+                "contributor": "Sugar Mamma",
+                "subtitle_srt": "1\n00:00:00,000 --> 00:00:04,470\nAnd you know studied my <font color=#FF3D48>advanced</font> diploma in financial planning at the same time.\n\n",
+                "id": 7249,
+                "video": "https://ydschool-video.nosdn.127.net/a73a22d3-b284-4abe-9cde-6188a33a748b.mp4"
+            },
+            {
+                "video_cover": "https://ydschool-video.nosdn.127.net/12d32561-d661-4b86-ac33-1083db255695.jpg",
+                "contributor": "engineerguy",
+                "subtitle_srt": "1\n00:00:00,000 --> 00:00:03,690\nWe’re very grateful for our <font color=#FF3D48>advanced</font> viewers who critiqued early versions of this video.\n\n",
+                "id": 8560,
+                "video": "https://ydschool-video.nosdn.127.net/cccdb428-3855-4267-a3e9-efbcdb697c39.mp4"
+            },
+            {
+                "video_cover": "https://ydschool-video.nosdn.127.net/26f11263-ffae-410a-9576-c42e72aa3eef.jpg",
+                "contributor": "U.S. Navy",
+                "subtitle_srt": "1\n00:00:00,000 --> 00:00:03,160\nThe USS Gerald R. Ford was built in Newport News,\n\n2\n00:00:03,190 --> 00:00:07,560\nVirginia, and is the most <font color=#FF3D48>advanced</font> and powerful warship in the world.\n\n",
+                "id": 6318,
+                "video": "https://ydschool-video.nosdn.127.net/3fb2a7ec-3c9b-45c4-9e71-0cc89905e7e4.mp4"
+            },
+            {
+                "video_cover": "https://ydschool-video.nosdn.127.net/4d08acd4-6bac-4b6f-9004-c55182f9a1a9.jpg",
+                "contributor": "Sociology Live!",
+                "subtitle_srt": "1\n00:00:00,030 --> 00:00:03,330\nA student whoo can read and write and who is also respectful\n\n2\n00:00:03,420 --> 00:00:05,250\nmay earn opportunities such as \n\n3\n00:00:05,280 --> 00:00:08,700\nbeing placed in <font color=#FF3D48>advanced</font> classes or receive higher grades.\n\n",
+                "id": 7080,
+                "video": "https://ydschool-video.nosdn.127.net/c3d9ff87-2341-46e9-a55d-609b0d18130d.mp4"
+            }
+        ],
+        "word_info": {
+            "return-phrase": "advanced",
+            "sense": [
+                "adj. 先进的；高级的，高等的",
+                "v. 行进；发展，进步"
+            ]
+        }
+    },
+    "simple": {
+        "query": "Advanced",
+        "word": [
+            {
+                "usphone": "ədˈvænst",
+                "ukphone": "ədˈvɑːnst",
+                "ukspeech": "advanced&type=1",
+                "return-phrase": "advanced",
+                "usspeech": "advanced&type=2"
+            }
+        ]
+    },
+    "phrs": {
+        "word": "advanced",
+        "phrs": [
+            {
+                "headword": "advanced technology",
+                "translation": "先进 技术"
+            },
+            {
+                "headword": "advanced level",
+                "translation": "n. （英国）一般学历证书考试优等（等于A level）"
+            },
+            {
+                "headword": "advanced science",
+                "translation": "先进科学；尖端科学"
+            },
+            {
+                "headword": "advanced control",
+                "translation": "[计]先行控制"
+            },
+            {
+                "headword": "advanced research",
+                "translation": "先进研究；远景研究"
+            },
+            {
+                "headword": "advanced stage",
+                "translation": "[医]晚期"
+            },
+            {
+                "headword": "advanced treatment",
+                "translation": "深度处理；高级处理"
+            },
+            {
+                "headword": "advanced education",
+                "translation": "高等教育；继续教育"
+            },
+            {
+                "headword": "advanced course",
+                "translation": "预先熟练；高级课程"
+            },
+            {
+                "headword": "advanced mathematics",
+                "translation": "高等数学"
+            },
+            {
+                "headword": "advanced country",
+                "translation": "先进国家；发达国家"
+            },
+            {
+                "headword": "advanced study",
+                "translation": "进修；高级的研究"
+            },
+            {
+                "headword": "advanced development",
+                "translation": "提前开发；高级研制"
+            },
+            {
+                "headword": "advanced age",
+                "translation": "高龄，老年"
+            },
+            {
+                "headword": "advanced training",
+                "translation": "进阶训练；高级训练"
+            },
+            {
+                "headword": "advanced cancer",
+                "translation": "晚期癌症"
+            },
+            {
+                "headword": "advanced economy",
+                "translation": "先进经济体系；发达的经济"
+            },
+            {
+                "headword": "advanced search",
+                "translation": "高级搜索"
+            },
+            {
+                "headword": "advanced model",
+                "translation": "先进模型"
+            },
+            {
+                "headword": "advanced material",
+                "translation": "先进材料；尖端物料"
+            }
+        ]
+    },
+    "oxford": {
+        "encryptedData": "TNvL5RvzrtPgEpLHE_NgTvMMps7y4fRHaUEzdolM_-WBHuFB8Sgrf1hzjIJ3c5growu1-B4Z3VdilAVpWx8asPn3xU6WNYSofHyYnn4V6BYG6dp8ccHNofpo33nDlXMWbvg8oIGo-5LfQudUQwKtND6f9IKZ8eOa_I1NTQvpPvaJbeQYZklEMliSj0Tz6rOZ81oF47hye7cq37tjuwlfrtrDXMk0l7c6El-LbMSjFPl6G05FRMZbhWpUFSaUOJRu36I-oxBLLaE5cE-s-l-obrDc7jnb-nVhKfyl-2Gi8ZjpRtFxgxrv2Z9kYZeqNP7WLwUwRHk5wLmCnH4Eb7R_0v43rQgSL_VlbiP5xUTEPtybvWy2Bw-cu2DzqoFCVwiXtFF7JCU7XT8QSxCiY9WnClXzjoSK-jLBi177xJoD4z--zNISkyv7n4jAg7_ZlLQtP4Z8MCV-bxWpKGTyfvvi3bpwIVBjffbkFsFCv-Drl8o210gd9TaFoZouHunRsmDWkUmNfwydMQXekNW842b2VprWODt7z_tmehnPw9AaPnw8zsrWzB8-bKTmYI2vkYP7pwvEN57fcBBrT0mImPT0Uklw1cniCqQa0juws89yhJBDmIco0PJBP9S2Jct1yUmoIWy8prl6h4AJuX4zo-kmIrNdksNk1lmtSwf54GiE0EX-Nt0F7PIjLJ3xZtkuOvUiu76us2HA5reu8s_zwQQjBg-8KiXrBe8_tvwBeuayH7_vt-LVbs7sf2s8Rn8Kuvb4kFMcES-72kwNtXjjrN7LSdlCoE3X5U1IkEtrf1Lz6h3ceWRu3gQUEL71Rh1lVZsgau8SF-7GBqyoNqjVz6nXcU4Gs_b3JcAkSsF0SwSsw_EjLr5KnTRJZdXkp6nEy7SOvC5awlLnKSuWFLA_cDDj77lldLUatoU9Zhcy_cmK3EpR3lC87m8uDmym_jNkWZc09cmdNxCmDN9WLde1ASw99AWUAnbXkGz3I1xFMJkqkQIAWtDRMdzq9AMm9IDUxwyU8CMtG8GvPUfgmZlsYQycdj20NLXxAXscmcof9ATe2SAM8UAbXkf32cVMFkFdj26FVaGjA4b8kJt8ZAkcB5lFFYRgt0fUvUamVFvZpLIX9AL8uOTS0wkX44ySfnyoA9MH"
+    },
+    "syno": {
+        "synos": [
+            {
+                "pos": "adj.",
+                "ws": [
+                    "senior",
+                    "aged",
+                    "high",
+                    "old",
+                    "ancient"
+                ],
+                "tran": "先进的；高级的；晚期的；年老的"
+            },
+            {
+                "pos": "v.",
+                "ws": [
+                    "rose",
+                    "improved"
+                ],
+                "tran": "前进；增加；上涨（advance的过去式和过去分词形式）"
+            }
+        ],
+        "word": "advanced"
+    },
+    "collins": {
+        "collins_entries": [
+            {
+                "entries": {
+                    "entry": [
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "ADJ",
+                                        "pos_tips": "形容词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "…一个拥有世界上最先进的军事技术的超级大国。",
+                                                "eng_sent": "...a superpower equipped with the most advanced military technology in the world."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "An <b>advanced</b> system, method, or design is modern and has been developed from an earlier version of the same thing. 先进的 (系统、方法、设计等)"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "ADJ",
+                                        "pos_tips": "形容词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "与美国等发达国家相比，农业生产率仍很低。",
+                                                "eng_sent": "Agricultural productivity remained low by comparison with advanced countries like the United States."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "A country that is <b>advanced</b> has reached a high level of industrial or technological development. (国家) 发达的"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "ADJ",
+                                        "pos_tips": "形容词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "该课程适合初学者和高阶学生。",
+                                                "eng_sent": "The course is suitable for beginners and advanced students."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "An <b>advanced</b> student has already learned the basic facts of a subject and is doing more difficult work. An <b>advanced</b> course of study is designed for such students. 高阶的 (学生、课程)"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "ADJ",
+                                        "pos_tips": "形容词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "晚期肾病患者可获得医疗保障。",
+                                                "eng_sent": "Medicare is available to victims of advanced kidney disease."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "Something that is at an <b>advanced</b> stage or level is at a late stage of development. 晚期的"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "phonetic": "ədˈvɑːnst",
+                "basic_entries": {
+                    "basic_entry": [
+                        {
+                            "cet": "CET4 TEM4",
+                            "headword": "advanced"
+                        }
+                    ]
+                },
+                "headword": "advanced",
+                "star": "3"
+            }
+        ]
+    },
+    "word_video": {
+        "word_videos": [
+            {
+                "ad": {
+                    "avatar": "https://ydlunacommon-cdn.nosdn.127.net/2b3a28325962aade6b60042cabe38b1a.png",
+                    "title": "看美剧搞定3000万用词",
+                    "url": "https://ke.study.163.com/topic/study/cpcjcj.html?outVendor=cidianccsp_lhz0517"
+                },
+                "video": {
+                    "cover": "https://ydlunacommon.nosdn.127.net/0f7add164f92ac0bdb409b6fbce26a3e.jpg",
+                    "image": "https://ydlunacommon-cdn.nosdn.127.net/75973cbd9e2d68eb964fb7fbea04f03d.jpg",
+                    "title": "语境记单词 | advanced",
+                    "url": "https://ydlunacommon.nosdn.127.net/1e51dc456e172c08dacbc0b2c8d6be50.mp4"
+                }
+            }
+        ]
+    },
+    "webster": {
+        "encryptedData": "cIUbJDMFJ-sQnHQaxcn686w0zniEc-SQlaIdDSPGzkFBhQxhAPZLc59TRZH0C4WD8pZwultzi0HChhLo4NZEUY0GXLCdyfLnOLYc-l-hFPDAfsd8m0kejx-Mf4-MuKmkvktLTErOLiKHDatZBCZcj3hD5aUHboXaAkZ79y7uCQJmG8UK83w1C7CVt_lrFWTWAeb9Y3Hdz_a3CC0-lh1IsbVNCkDTtzZBE4nhKcExwSEBWL6QqBjwm6mgUB8L_tABUr00KOiqtzUcceIodxkM0R__onu7b8TOwvQuzdxdMdYisuy2uS2Z1Q3TGOLEI_1ZVwU6oeTefdRGK4SQ3GKRVBMGd6wAyGUEFlgju-HHJIFKSmWoAS4ykn_KY_X9-K6KmIlPC4Eur-nJ-1UlGoqzRv-Vmx7DuHlmkVh2-BxYzZgZOyIsjwLCccbMesBjaOqwMnsFRAicj-vfNLXO8kMaPIi9E_X6ifFUR71t27wMN_bNeUXKnSoECmc0aoNrSkSRUmghBuEcKYwJboi4ESzssKg05MtIaxZpIl7RIv_sKK4g_zMlHpqPobQkigSqd3GdylmD2pyTbH9MIWCTB8W51aiiH9X7CbQZvoXpqKD_jsnuq4fdyRcfz261ciH7TaF1LCzsywQs093Z_pD7qXOZrnG6amecmr0ys0Bn35T4Fk_DgXN5-81BsSBz0ar_oI8yiwp1Oo_ng1EKy9jxOWustCw1-609tdV-zIC1fHJYxH2cZhtZxc3ALd83ksq9oekCCvFtvdHvakyHBF6gcExYB4FMoe_8pVj2qFAIlXmqBnLrx48gvdxzIo5A-HBUB6qVgiW5rbhAA2NWNrh9NKwM6-uOO8Vux34MhluJBtERiQnMA2hTUUJj4EnCAelvb1orfZT2aRiSF9pjyekmbELOfpkvtXwR7hcVydEdje-ecv1CryE1GgfDVn4M9-KcOxYJokc31zoSq2bqk_nWuHLLUBmvUWnxiBP-sYk4KmL8ZLuz1NrIn67c7FC6zJLkmoA4dAw0uXP4XoptNJ9UVMPUNIjjidol7i74duL33FSch_r3Vb1z8qNkuhN7USVwx1cH1Rs4SEGEmhlAOpulFa4wDg=="
+    },
+    "wikipedia_digest": {
+        "summarys": [
+            {
+                "summary": "AdvancED is a non-profit, non-governmental organization that accredits primary and secondary schools throughout the United States and internationally. AdvancED was formed in 2006 by the consolidation of the pre-college divisions of two of the U.S. regional accreditation organizations: the Commission on Accreditation and School Improvement of the North Central Association of Colleges and Schools (NCA CASI), and the Council on Accreditation and School Improvement of the Southern Association of Colleges and Schools (SACS CASI). In 2012 the Northwest Accreditation Commission (NWAC) joined AdvancED.At the end of the 2010-2011 AdvancED reported that it served more than 27,000 institutions including 3,000 that were engaged in school improvement but not yet accredited.The organization has headquarters in Alpharetta, Georgia and Tempe, Arizona.",
+                "key": "AdvancED"
+            }
+        ],
+        "source": {
+            "name": "维基百科",
+            "url": "http://en.wikipedia.org/wiki/AdvancED"
+        }
+    },
+    "lang": "eng",
+    "ec": {
+        "web_trans": [
+            "高级",
+            "先进",
+            "高级设置"
+        ],
+        "special": [
+            {
+                "nat": "先进",
+                "major": "经济学"
+            },
+            {
+                "nat": "晚期",
+                "major": "医药科学"
+            },
+            {
+                "nat": "先进的",
+                "major": "机械工程"
+            }
+        ],
+        "exam_type": [
+            "高中",
+            "CET4",
+            "CET6",
+            "考研",
+            "IELTS",
+            "TOEFL",
+            "GRE",
+            "商务英语"
+        ],
+        "source": {
+            "name": "有道词典",
+            "url": "https://dict.youdao.com"
+        },
+        "word": {
+            "usphone": "ədˈvænst",
+            "ukphone": "ədˈvɑːnst",
+            "ukspeech": "advanced&type=1",
+            "trs": [
+                {
+                    "pos": "adj.",
+                    "tran": "先进的；高级的，高等的；晚期的，状况不佳的；高龄的；新提出（尚未被广泛接 受）的"
+                },
+                {
+                    "pos": "v.",
+                    "tran": "行进；发展，进步；预付（advance 的过去式和过去分词形式）"
+                }
+            ],
+            "wfs": [
+                {
+                    "wf": {
+                        "name": "比较级",
+                        "value": "more advanced"
+                    }
+                },
+                {
+                    "wf": {
+                        "name": "最高级",
+                        "value": "most advanced"
+                    }
+                }
+            ],
+            "return-phrase": "advanced",
+            "usspeech": "advanced&type=2",
+            "prototype": "advance"
+        }
+    },
+    "ee": {
+        "source": {
+            "name": "WordNet",
+            "url": "https://wordnet.princeton.edu"
+        },
+        "word": {
+            "trs": [
+                {
+                    "pos": "adj.",
+                    "tr": [
+                        {
+                            "examples": [
+                                "the child's skeletal age was classified as `advanced'",
+                                "children in the advanced classes in elementary school read far above grade average"
+                            ],
+                            "tran": "farther along in physical or mental development"
+                        },
+                        {
+                            "examples": [
+                                "the illness had reached an advanced stage",
+                                "an advanced state of exhaustion"
+                            ],
+                            "tran": "comparatively late in a course of development"
+                        },
+                        {
+                            "examples": [
+                                "the advanced teaching methods",
+                                "had advanced views on the subject"
+                            ],
+                            "tran": "ahead of the times",
+                            "similar-words": [
+                                "forward-looking",
+                                "innovative",
+                                "modern"
+                            ]
+                        },
+                        {
+                            "examples": [
+                                "an advanced degree",
+                                "an advanced text in physics",
+                                "special seminars for small groups of advanced students at the University"
+                            ],
+                            "tran": "at a higher level in training or knowledge or skill"
+                        },
+                        {
+                            "examples": [
+                                "advanced technology"
+                            ],
+                            "tran": "ahead in development; complex or intricate",
+                            "similar-words": [
+                                "sophisticated"
+                            ]
+                        },
+                        {
+                            "examples": [
+                                "a man of advanced age",
+                                "advanced in years"
+                            ],
+                            "tran": "far along in time",
+                            "similar-words": [
+                                "ripe"
+                            ]
+                        },
+                        {
+                            "examples": [
+                                "advanced societies",
+                                "an advanced country technologically"
+                            ],
+                            "tran": "(of societies) highly developed especially in technology or industry"
+                        },
+                        {
+                            "examples": [
+                                "at that time the most advanced outpost was still east of the Rockies"
+                            ],
+                            "tran": "situated ahead or going before",
+                            "similar-words": [
+                                "advance(a)",
+                                "in advance(p)"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "phone": "əd'vɑ:nst, -'vænst",
+            "speech": "advanced",
+            "return-phrase": "advanced"
+        }
+    },
+    "blng_sents_part": {
+        "sentence-count": 6,
+        "sentence-pair": [
+            {
+                "sentence": "Oil shares advanced amid economic recovery hopes.",
+                "sentence-eng": "Oil shares <b>advanced</b> amid economic recovery hopes.",
+                "sentence-translation": "在一片经济复苏的希望中石油股票价格上涨。",
+                "speech-size": "14kb",
+                "aligned-words": {
+                    "src": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "4",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "5",
+                                "@e": "11",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "21",
+                                "@e": "25",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "26",
+                                "@e": "34",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            },
+                            {
+                                "@s": "35",
+                                "@e": "43",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "5"
+                            },
+                            {
+                                "@s": "44",
+                                "@e": "49",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "6"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "6"
+                            }
+                        ]
+                    },
+                    "tran": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "2",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "4",
+                                "@e": "6",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "6",
+                                "@e": "8",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "9",
+                                "@e": "11",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "6"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "12",
+                                "@e": "14",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            },
+                            {
+                                "@s": "14",
+                                "@e": "18",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ]
+                                },
+                                "@id": "5"
+                            }
+                        ]
+                    }
+                },
+                "source": "《牛津词典》",
+                "url": "https://《牛津词典》/",
+                "sentence-speech": "Oil+shares+advanced+amid+economic+recovery+hopes.&le=eng"
+            },
+            {
+                "sentence": "Students are categorized as novice, intermediate, or advanced.",
+                "sentence-eng": "Students are categorized as novice, intermediate, or <b>advanced</b>.",
+                "sentence-translation": "学生分为新生、中级生或高级生。",
+                "speech-size": "18kb",
+                "aligned-words": {
+                    "src": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "9",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "10",
+                                "@e": "28",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "29",
+                                "@e": "35",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "37",
+                                "@e": "49",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "51",
+                                "@e": "53",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            },
+                            {
+                                "@s": "54",
+                                "@e": "62",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ]
+                                },
+                                "@id": "5"
+                            }
+                        ]
+                    },
+                    "tran": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "3",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "3",
+                                "@e": "5",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "5",
+                                "@e": "7",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "8",
+                                "@e": "10",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "11",
+                                "@e": "12",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            },
+                            {
+                                "@s": "12",
+                                "@e": "14",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ]
+                                },
+                                "@id": "5"
+                            }
+                        ]
+                    }
+                },
+                "source": "《柯林斯英汉 双解大词典》",
+                "url": "https://《柯林斯英汉双解大词典》/",
+                "sentence-speech": "Students+are+categorized+as+novice%2C+intermediate%2C+or+advanced.&le=eng"
+            },
+            {
+                "sentence": "He was a man of advanced years.",
+                "sentence-eng": "He was a man of <b>advanced</b> years.",
+                "sentence-translation": "他年事已高。",
+                "speech-size": "9kb",
+                "aligned-words": {
+                    "src": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "3",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "17",
+                                "@e": "25",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            }
+                        ]
+                    },
+                    "tran": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "2",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "2",
+                                "@e": "6",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            }
+                        ]
+                    }
+                },
+                "source": "《牛津词典 》",
+                "url": "https://《牛津词典》/",
+                "sentence-speech": "He+was+a+man+of+advanced+years.&le=eng"
+            }
+        ],
+        "more": "blng_sents",
+        "trs-classify": [
+            {
+                "proportion": "100%",
+                "tr": "全部"
+            },
+            {
+                "proportion": "47.1%",
+                "tr": "高级"
+            },
+            {
+                "proportion": "46.7%",
+                "tr": "先进"
+            },
+            {
+                "proportion": "4.9%",
+                "tr": "高等"
+            },
+            {
+                "proportion": "0.7%",
+                "tr": "发达"
+            },
+            {
+                "proportion": "0.3%",
+                "tr": "前进"
+            },
+            {
+                "proportion": "0.3%",
+                "tr": "高深"
+            }
+        ]
+    },
+    "individual": {
+        "anagram": {
+            "wfs": [
+                {
+                    "name": "比较级",
+                    "value": "more advanced"
+                },
+                {
+                    "name": "最高级",
+                    "value": "most advanced"
+                }
+            ],
+            "word": "advanced"
+        },
+        "trs": [
+            {
+                "pos": "adj.",
+                "tran": "先进的"
+            },
+            {
+                "pos": "adj.",
+                "tran": "高级的；高等的（课程）"
+            }
+        ],
+        "level": "高考",
+        "examInfo": {
+            "year": 5,
+            "questionTypeInfo": [
+                {
+                    "time": 0,
+                    "type": "翻译"
+                },
+                {
+                    "time": 0,
+                    "type": "知识运用"
+                },
+                {
+                    "time": 0,
+                    "type": "写作"
+                },
+                {
+                    "time": 0,
+                    "type": "听力理解"
+                },
+                {
+                    "time": 5,
+                    "type": "阅读理解"
+                }
+            ],
+            "recommendationRate": 3,
+            "frequency": 5
+        },
+        "return-phrase": "advanced",
+        "pastExamSents": [
+            {
+                "en": "Even advanced physics can't decisively tell us what time is, because the answer depends on the question you're asking.",
+                "source": "2021·北京卷·阅读理解",
+                "zh": "即使是高等物理学也不能明确地告诉我们时间是什么，因为答案取决于你所问的问题。"
+            },
+            {
+                "en": "In the fictional worlds of film and TV, artificial intelligence (AI) has been described as so advanced that it is indistinguishable from humans.",
+                "source": "2021·天津卷·阅读理解",
+                "zh": "电影、电视的虚构世界里，将人工智能描述得非常先进，先进到与人类难以区分。"
+            },
+            {
+                "en": "\"As we develop more advanced AI technology, we would then have to use new ways of communicating with that technology,\" she says.",
+                "source": "2021·天津卷·阅读理解",
+                "zh": "她表示：“随着我们开发出更先进的人工智能技术，我们将不得不使用与这种技术沟通的新方式。”"
+            },
+            {
+                "en": "The call for public engagement with the unthinkable is especially germane in this moment of still-uncontrolled pandemic and economic crises in the world's most technologically advanced nations.",
+                "source": "2021·北京卷·阅读理解",
+                "zh": "在世界上技术最先进的国家仍然不能控制疫情和经济危机的时刻，呼吁公众参与令人无法想象的事情尤为重要。"
+            },
+            {
+                "en": "At the core of Lancom is a world-class effective method that enhances language leaning with advanced technology.",
+                "source": "2020·北京卷·阅读理解",
+                "zh": "Lancom 的核心是世界一流的高效学习方法，其旨在通过先进科技来提高语言学习。"
+            },
+            {
+                "en": "It was only when electric motors became advanced that vacuum cleaners became common.",
+                "source": "2017·赣州期末",
+                "zh": "只 有电动机变得先进时，真空吸尘器才会普遍使用。"
+            },
+            {
+                "en": "Since then, I have taken courses like Data Science and Advanced Mathematics.",
+                "source": "2016·北京卷",
+                "zh": "从那时起，我就在上《数据科学》和《高等数学》之类的课程了。"
+            }
+        ],
+        "mnemonic": {
+            "method": "advance（提前）+ ed（表示过去分词）→ 已经提前的 → 先进的",
+            "word": "advanced"
+        },
+        "highExpression": [
+            {
+                "expression": {
+                    "en": "advanced technology",
+                    "zh": "先进的技术"
+                },
+                "sents": [
+                    {
+                        "en": "Advanced technology is usually a double-edged sword, which can bring people both benefits and harms.",
+                        "category": "议论文—科技",
+                        "zh": "先进的技术通常是一把双刃剑，它可以给人们带来好处和危害。"
+                    }
+                ]
+            },
+            {
+                "expression": {
+                    "en": "advanced country",
+                    "zh": "发达国家"
+                },
+                "sents": [
+                    {
+                        "en": "Only when advanced countries extend a helping hand to developing countries, can the world be a better place.",
+                        "category": "议论文—社会",
+                        "zh": "只有当先进国家向发展中国家伸出援助之手时，世界才能变得更好。"
+                    }
+                ]
+            }
+        ]
+    },
+    "collins_primary": {
+        "words": {
+            "indexforms": [
+                "advanced"
+            ],
+            "word": "advanced"
+        },
+        "gramcat": [
+            {
+                "audiourl": "https://ydlunacommon-cdn.nosdn.127.net/b97927a68984dd40f4b5eb45133e965d.mp3",
+                "pronunciation": "ædˈvɑːnst",
+                "senses": [
+                    {
+                        "sensenumber": "1",
+                        "examples": [
+                            {
+                                "sense": {
+                                    "lang": "ZH-CN",
+                                    "word": "这是如今技术最先进的手机之一。"
+                                },
+                                "example": "This is one of the most advanced phones available."
+                            }
+                        ],
+                        "definition": "modern",
+                        "lang": "ZH-CN",
+                        "word": "先进的；领先的"
+                    },
+                    {
+                        "sensenumber": "2",
+                        "examples": [
+                            {
+                                "sense": {
+                                    "lang": "ZH-CN",
+                                    "word": "适合高级英语学习者 的词典"
+                                },
+                                "example": "a dictionary for advanced learners of English"
+                            }
+                        ],
+                        "definition": "relating to people who are very good at something",
+                        "lang": "ZH-CN",
+                        "word": "高级程度的；高等的"
+                    }
+                ],
+                "partofspeech": "adjective",
+                "audio": "00791",
+                "forms": []
+            }
+        ]
+    },
+    "rel_word": {
+        "word": "advanced",
+        "stem": "advance",
+        "rels": [
+            {
+                "rel": {
+                    "pos": "adj.",
+                    "words": [
+                        {
+                            "word": "advance",
+                            "tran": "预先的；先行的"
+                        },
+                        {
+                            "word": "advancing",
+                            "tran": "前进的；年长的"
+                        }
+                    ]
+                }
+            },
+            {
+                "rel": {
+                    "pos": "n.",
+                    "words": [
+                        {
+                            "word": "advance",
+                            "tran": "发展；前进；增长；预付款"
+                        },
+                        {
+                            "word": "advancement",
+                            "tran": "前进，进步；提升"
+                        },
+                        {
+                            "word": "advancer",
+                            "tran": "前进者；相位超前补偿器，进相机"
+                        }
+                    ]
+                }
+            },
+            {
+                "rel": {
+                    "pos": "v.",
+                    "words": [
+                        {
+                            "word": "advancing",
+                            "tran": "前进；超前（advance的ing形式）"
+                        }
+                    ]
+                }
+            },
+            {
+                "rel": {
+                    "pos": "vi.",
+                    "words": [
+                        {
+                            "word": "advance",
+                            "tran": "前进；进展；上涨"
+                        }
+                    ]
+                }
+            },
+            {
+                "rel": {
+                    "pos": "vt.",
+                    "words": [
+                        {
+                            "word": "advance",
+                            "tran": "提出；预付；使……前进；将……提前"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "auth_sents_part": {
+        "sentence-count": 6,
+        "more": "auth_sents",
+        "sent": [
+            {
+                "score": 0.9831212759017944,
+                "speech": "But+advanced+pedal-pushers+often+aim+straight+for+the+tough+Top+of+the+World+Trail.+",
+                "speech-size": "24kb",
+                "source": "BBC: <i>Canada��s summer adventure hotspot</i>",
+                "url": "youdao",
+                "foreign": "But <b>advanced</b> pedal-pushers often aim straight for the tough Top of the World Trail. "
+            },
+            {
+                "score": 0.9831129312515259,
+                "speech": "Drivers+will+experience+richer+sound+and+customizable+audio+settings+with+Sony%27s+Advanced+Sound+Engine.+",
+                "speech-size": "30kb",
+                "source": "ENGADGET: <i>blogger-avatar</i>",
+                "url": "youdao",
+                "foreign": "Drivers will experience richer sound and customizable audio settings with Sony's <b>Advanced</b> Sound Engine. "
+            },
+            {
+                "score": 0.983112633228302,
+                "speech": "The+Advantix+cameras+are+based+on+a+hybrid+digital-and-conventional+technology+called+APS%2C+for+Advanced+Photography+System.+",
+                "speech-size": "35kb",
+                "source": "FORBES: <i>How an outsider's vision saved Kodak</i>",
+                "url": "youdao",
+                "foreign": "The Advantix cameras are based on a hybrid digital-and-conventional technology called APS, for <b>Advanced</b> Photography System. "
+            }
+        ]
+    },
+    "magic_words": {
+        "magic_words": [
+            {
+                "paraphrase": "先进的",
+                "word": "advanced",
+                "info": [
+                    {
+                        "phonetic": "/ədˈvɑːnst/",
+                        "videoUrl": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/advanced/uk.mp4",
+                        "phoneticType": "UK",
+                        "videoCover": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/advanced/cover.jpg",
+                        "watermarkVideoUrl": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/advanced/uk_logo.mp4"
+                    },
+                    {
+                        "phonetic": "null",
+                        "videoUrl": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/advanced/us.mp4",
+                        "phoneticType": "US",
+                        "videoCover": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/advanced/cover.jpg",
+                        "watermarkVideoUrl": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/advanced/us_logo.mp4"
+                    },
+                    {
+                        "phonetic": "null",
+                        "videoUrl": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/advanced/global.mp4",
+                        "phoneticType": "GLOBAL",
+                        "videoCover": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/advanced/cover.jpg",
+                        "watermarkVideoUrl": "https://yds3-infra-arch.youdao.com/dict-magic-word-online-new/advanced/global_logo.mp4"
+                    }
+                ],
+                "premiumVideoStatus": 0
+            }
+        ]
+    },
+    "media_sents_part": {
+        "sentence-count": 6,
+        "more": "media_sents",
+        "query": "Advanced",
+        "sent": [
+            {
+                "@mediatype": "audio",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "streamUrl": "https://dict.youdao.com/pureaudio?docid=2288065779491332321",
+                            "duration": "10400",
+                            "swf": "",
+                            "name": "special.2009.06.14",
+                            "source": "VOA",
+                            "win8": "https://dict.youdao.com/pureaudio?docid=2288065779491332321&dist=win8"
+                        }
+                    ]
+                },
+                "speech-size": "37kb",
+                "eng": "In nineteen forty-seven, he began to direct the Institute of <b>Advanced</b> Studies at Princeton University on the East Coast."
+            },
+            {
+                "@mediatype": "video",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "sourceUrl": "youdao",
+                            "streamUrl": "movie=http://dict.youdao.com/purevideo?docid=-8554965563575709190&auto=true",
+                            "swf": "http://shared.ydstatic.com/dict/4.0/simplayer.swf",
+                            "imageUrl": "http://dict.youdao.com/pureimage?docid=-8554965563575709190",
+                            "name": "麻省理工公开课",
+                            "source": "媒体、教育、市场 课程节选"
+                        }
+                    ]
+                },
+                "chn": "首先，他希望,即将到来的潜力人才,学会运用,先进的投资理论。<br>",
+                "eng": "First of all, he wanted to imbed in his upcoming high potentials the user application of really <b>advanced</b> investment theory.<br>"
+            },
+            {
+                "@mediatype": "video",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "sourceUrl": "youdao",
+                            "streamUrl": "movie=http://dict.youdao.com/purevideo?docid=-8207982823162250226&auto=true",
+                            "swf": "http://shared.ydstatic.com/dict/4.0/simplayer.swf",
+                            "imageUrl": "http://dict.youdao.com/pureimage?docid=-8207982823162250226",
+                            "name": "对于奖学金制度",
+                            "source": "SpeakingMax英语口语达人"
+                        }
+                    ]
+                },
+                "chn": "尤其是因为，有些高级学位，为了获得它你花了很多钱。<br>",
+                "eng": "Especially because some, some <b>advanced</b> degrees  that you get, you pay a lot of money to get them,<br>"
+            },
+            {
+                "@mediatype": "audio",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "streamUrl": "https://dict.youdao.com/pureaudio?docid=-6676225970941411853",
+                            "duration": "11200",
+                            "swf": "",
+                            "name": "special.2009.05.23",
+                            "source": "VOA",
+                            "win8": "https://dict.youdao.com/pureaudio?docid=-6676225970941411853&dist=win8"
+                        }
+                    ]
+                },
+                "speech-size": "47kb",
+                "eng": "MAHMOUD AHMADINEJAD (translator): \"The Sejil-2 missile, which has very <b>advanced</b> technology, was launched from Semnan and it landed precisely on the target.\""
+            },
+            {
+                "@mediatype": "audio",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "streamUrl": "https://dict.youdao.com/pureaudio?docid=8744891275644891876",
+                            "duration": "11300",
+                            "swf": "",
+                            "name": "special.2011.03.20",
+                            "source": "VOA",
+                            "win8": "https://dict.youdao.com/pureaudio?docid=8744891275644891876&dist=win8"
+                        }
+                    ]
+                },
+                "speech-size": "38kb",
+                "eng": "She attended Columbia University at night and received an <b>advanced</b> degree in early childhood education in nineteen fifty-two."
+            }
+        ]
+    },
+    "etym": {
+        "etyms": {
+            "en": [
+                {
+                    "source": "wiktionary",
+                    "word": "advanced",
+                    "value": "advance +‎ -ed",
+                    "url": "https://www.wiktionary.org/",
+                    "desc": ""
+                }
+            ]
+        },
+        "word": "advanced"
+    },
+    "special": {
+        "summary": {
+            "sources": {
+                "source": {
+                    "site": "NoteEExpress",
+                    "url": "https://dict.youdao.com"
+                }
+            },
+            "text": "以上统计来源于2,447,534篇论文数据，部分数据来源于"
+        },
+        "co-add": "https://dict.youdao.com",
+        "total": "2,447,543",
+        "entries": [
+            {
+                "entry": {
+                    "major": "经济学",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "先进",
+                                "chnSent": "<b>先进</b>的技术一定就是对我们有效的的吗？",
+                                "cite": "6678",
+                                "docTitle": "海尔经营之道分析 ",
+                                "engSent": "Do those <b>advanced</b> ones deem to be effective to us?",
+                                "url": "youdao"
+                            }
+                        }
+                    ],
+                    "num": 1
+                }
+            },
+            {
+                "entry": {
+                    "major": "医药科学",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "晚期",
+                                "chnSent": "方法:本研究包含了57例<b>晚期</b>ESCC患者。",
+                                "cite": "966",
+                                "docTitle": "含铂方案治疗晚期食管鳞癌的疗效及预后 ",
+                                "engSent": "Methods:The study population consisted of 57 <b>advanced</b> ESCC patients.",
+                                "url": "youdao"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "进展期",
+                                "chnSent": "在DM组中<b>进展期</b>病变和吸烟人的HO-1表达更为增强。",
+                                "cite": "230",
+                                "docTitle": "血红素加氧酶",
+                                "engSent": "HO-1 expression in DM group was furthermore enhanced with <b>advanced</b> iesions and smoking.",
+                                "url": "youdao"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "高级",
+                                "chnSent": "医学图像重建软件Minics、Amira等均具有功能强大的<b>高级</b>数据可视化系统。",
+                                "cite": "79",
+                                "docTitle": "数字化组织瓣的虚拟解剖学测量及其临床初步应用 ",
+                                "engSent": "Medical image reconstruction software Minics,Amira,etc. with powerful <b>advanced</b> data visualization system.",
+                                "url": "youdao"
+                            }
+                        }
+                    ],
+                    "num": 3
+                }
+            },
+            {
+                "entry": {
+                    "major": "机械工程",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "先进的",
+                                "chnSent": "我国是毛纺生产大国(生产能力占全世界的六分之一)，却不是技术<b>先进的</b>强国。",
+                                "cite": "418",
+                                "docTitle": "毛精纺单纱的弹性指标质量预测与控制 ",
+                                "engSent": "China is one of the largest wool processing countries in the world, but technology is not an <b>advanced</b> one.",
+                                "url": "youdao"
+                            }
+                        }
+                    ],
+                    "num": 1
+                }
+            },
+            {
+                "entry": {
+                    "major": "计算机科学技术",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "高级",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "进阶",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "先进",
+                                "cite": "0"
+                            }
+                        }
+                    ],
+                    "num": 3
+                }
+            }
+        ]
+    },
+    "senior": {
+        "encryptedData": "MLjRw9KbxN3KBHY-rKk1ZBlqET6gk-xkq9LcEtgu3INESSJ1rNWZotqIgYtQz9b7JpRQGWlF47MqH9374YlvuLENXJiSdSwyrxvVWILWiC2fzstttwVEETj5r7OyuZQzwKEAY1xvNjTt7qVVrraOf2PQlXwhFWHjg3G-Y6Q7sde_F4qNBx6Cr-YH2BC_kv2rMe_eAYRDJLe-h1az3gUZmG4QkFwDyQVOzsdCqECwl3zc9alALZI894T07PoXVbX7ItXxPFZEKZ1G0WYe9ILGUFeeDsckTsHKLJYJyLFBWq4FO7Ltoz9BP99CmTkYWuypHaYgtAqm48u2z2U-oDOIAIDXJe_Lhg_BpczuiNBr4w92NnIpuZsDODto_OyOeUYb-BqvarvUvBTDKJ8Iow-IKpY720E43pv9WQOQKlMP0QuZwplgX7QukiszfTg7zKvMVvNSB6jk8l02uv7mjEQeFHGzOh2zx4oVSJC13cyuFCfnMKxWK5cU8fvh3uI-ofZKYqtq4o2T2GxpeMv8PWoFlxATRNfKryPT0PBLj02t-5QS3GpZX1z_DH7uqlcdA6BQ2rBOrhGJWp-PEY_IyTVVRhBsxqixllCVXRyPRnfeRg0oq0nIqQaUrFnakZotXfRxz7CCIyuRrc1RMClRYEAFUBYD6omt_P2afH15eBTM4Riw_u4PQzPVnpiXeFQwK7qAlzODpuYc3nhiIfDyPWCuHIGSd89AveqazHaJ0aOJ-ybcOVlut3hmcKrqvMU5v9OCPhG_M_i0TaKX2ImpcdFtOhKhd-4WKU3AlAi6mmxvAE9FeNlDbfKXoOlh_b7B6gBIMtiVY0qpKm9XwVR8TJomjXYP6DC6RdRWOVRC5hk4n28UHR5exU8DHYERMKvrC-a5ySxRTYKTBGwNnuGe9aKpt4DcixxTLr4Fl3qaczUSAHqnkxi3VdQjhnvkIECuyeg8godzgzqC-ipn0oW0lhp-MOwN6dbPpzfhrW5MaD6optqnaA0pixJVBgxtBQaQ0foKebUT_EnvZklTMzT-Bnx0h4KyueY7SIN0L1VOvpKh1M29R7IhYJ9rcAkFf2wYOD5EZE33_pUVSBjWmg-I0JHH2jcHkVfVP5m310XrFGxXWu4ZNktA7gUumjetT6x_H5DX3IhqltqXdoinYDsEWgOsDQmWSeADHF2ZjHtLzbFR0kTcgvaJrMYB891IxHGkv9g62JEWMA8Aze6gW7_RtY82VAaDSz4hp1dbuEzs0UULbhp1abucUMFPtd5GPJL2LTz3mXL3SdhPvq_HSQ9gbHyO9wn6HCLMjipHpPoP4AyjPefUPXeMAfco6J_eUdatQdTgJXxU52ikeUfLgUc8JOFwv5j-0E8MrBqoYiadR_-uBA_88isRQUVXF3xx_ex0Y6VuaHMysfOALbS45bIfkh_pRwkd3DWA_nHYnB9RUCziZ0bQzrYVB3tPxfz0pGouXGq6xpgspV5b4Jn50piOJuERkxi8ewIB_zZqTp5YmT0Qy2s-AiLr0NruwIgvcHGwY8udztKjx3oMJAQ9ofqbx3PHuGlPRuK4DWdpXakbsxdwhCjobwwfl3gMKAuIAMdaSCEBDJdanYDi8Iakf4GzzEN-Zu4f-aLf3xVKH1tZdz3D0ZAIUX_cZcUCB-ZFpAFdAnQFVNiDNlecn7RJkYma8jxciSuELMfluNslOqp_ZN8fMDHtuzzxYig-W2VSzYjZHn2EGJq71-zwGruWvv8mZAWIU4e3Q-lYWepexDCeTBJcOYc9r9WdddnzrzLTMKXDbXPfK1ncCC1YNxN17QQ6Cl8bnSQooAzbZgwd-uQ9U_yOWOl8N0JqN4JUlzBnLw-UUQ1i95MJrkq6_2XkPKIuc4nAaA==",
+        "source": {
+            "name": "《有道高中词典》"
+        }
+    },
+    "input": "Advanced",
+    "music_sents": {
+        "sents_data": [
+            {
+                "songName": "What I'm Here 4",
+                "lyricTranslation": "您的状态，通过它而变得先进",
+                "singer": "Gang Starr",
+                "coverImg": "https://ydlunacommon-cdn.nosdn.127.net/e0b4787ca562b794f649292d14f6fd99.jpg?imageView=&type=webp",
+                "supportCount": 9,
+                "lyric": "Your state of being, becoming <b>advanced</b> through it",
+                "link": "https://music.163.com/#/song?id=18055774",
+                "lyricList": [
+                    {
+                        "duration": 2740,
+                        "lyricTranslation": "您的状态，通过它而变得先进",
+                        "lyric": "Your state of being, becoming <b>advanced</b> through it",
+                        "start": 0
+                    },
+                    {
+                        "duration": 1860,
+                        "lyricTranslation": "当别人无缘无故地押韵时",
+                        "lyric": "While others rhyme with no reason I be breezin",
+                        "start": 2740
+                    }
+                ],
+                "id": "b4e366151b",
+                "songId": "20DB15CAA1821E35BEC17CDF97B4FB2D",
+                "decryptedSongId": "18055774",
+                "playUrl": "https://dict.youdao.com/dictserver/sentencemusic/playUrl?redirectUrl=https%3A%2F%2Fydlunacommon-cdn.nosdn.127.net%2Fc4e2f0d287af46b9c3fbc2e0c53a3c8d.mp3"
+            }
+        ],
+        "more": false,
+        "word": "advanced"
+    },
+    "meta": {
+        "input": "Advanced",
+        "guessLanguage": "eng",
+        "isHasSimpleDict": "1",
+        "le": "en",
+        "lang": "eng",
+        "dicts": [
+            "web_trans",
+            "oxfordAdvanceHtml",
+            "video_sents",
+            "simple",
+            "phrs",
+            "oxford",
+            "syno",
+            "collins",
+            "word_video",
+            "webster",
+            "wikipedia_digest",
+            "ec",
+            "ee",
+            "blng_sents_part",
+            "individual",
+            "collins_primary",
+            "rel_word",
+            "auth_sents_part",
+            "magic_words",
+            "media_sents_part",
+            "etym",
+            "special",
+            "senior",
+            "music_sents",
+            "meta",
+            "oxfordAdvance"
+        ]
+    },
+    "le": "en",
+    "oxfordAdvance": {
+        "encryptedData": "oGaanzGEv4TFGNkgbPQfjud8s3YxqQChkIEIrFbM1cA0XMFcXSliS_lMBAaWYQLkdLDm3QPNvumA-UMRZ1_zwZ7yJ7iXc_mptFuD9zsUkWAz2amCeu9l9-DmKGyRN9faAaV4MAT01y3usonkauOKdtzbO5tk2U80EA6uGa4LDg2BIGXrbvNNIOEY0SW6ky15Xa4U_nLrKv478YrPz17yTorknIcRRFG2E4-rTQH4p3Vn_ElRS1FFbU0LH0cTv22LTgTCOKhcDNdzjhScjGIsOemOCgTbyyNfuF3u6JufZtfmFkOaibQpaMy2tiFa3KOlsnDN9InTEsPLit_FElWfucw1gfpKF3UAX7uA2ayQghZu_pDzHVPAp_7vRv5dNyVNOGF6c9kpUkX3xoiZUxjELDF4KrdTsTM5SbTm4sRoUCk_93OWYWOHCt32id8fzmW62ok7B4hWxra-pvm-xqpMdub0GE1mYu9N4No9pPz790W0DsaKbEi81iZ9wRjunn84NkJ3ZfAWxwIGNu9ALeCuitflyRB1lXHrc-DXgU9tmcyKiE0ZW2EPCpq5UGnE50UfiHgMlwzCG4eFJ0fhoF9biajc_LXN4wcTwyUUzwdjFBEUw1EPTWl8kIRCfstpzgWAFBvBN_kuRrz-VMWoEheZ3NjoYAk46PksAtJ4P94n5VTK9u-iBoZba4tqPkRgxQE8g7FJuej6ZUQ-VjKahEfvT-H0_3z7_RNuAh3J3ZGsvY_4ygVsSWDN1m5UZy-6EZ2FFeGLCbftgxQ4II8mtMMCL3ZvyJx65EJ3Wu1JUiikbd2SJSy0vzQY2vxIAfXGDEtwUVmpM8B6EEvxvs1v8RBYXG1RE0BAKIxTb0u2GdVTSU0P-83tETbQCqHGnaJmiQ9y3rIx2gjAG7hMrL0fwQKwU9zNkjAjW9wyW_hCCM-ZjTUireR5OCv16LQPrFoaZiMO7lL88k4pgbevgGSlEODmWbtHsMV_5wjYP6h3xUqAMdvOMMRNV1y2A722Gv4RcsQJRrN0jmLCT5Dp4K2wCKYUr3kqj062JmZcDGaZlkUJ9LOtXV7pApybYZAykbIEH-XtXzENrX_PKmWAWA6Jdg4xfqYpjsVFOx44XpyTZqQyssNCA9IvC1bfM92mwhye9q3Req9jrXkinK24JycBd4kyachp0QKK-hhWwCxqr_ObFfG43sfcSWfoCU6ERyv55FEcKHg6oUHWrrJaAeZYCbFF5prhd3EEfh_1RuNpoDqDHGSLqLG8w0PhylalCpprv3X3l7wizcrhngAGmBQbFc2hrDC7TPuJ9wyxA1uhQXeI9ZrI4J_JmgzMxIx72iRlEuRFbJzAk_Fnh_WFifApsqvbQfYj7JPCfr9FD4lIhLbfD1Wd9GK0i0rJproaVL5gInmqVMb7LAo3bGpOqApJK4bGpNtWOPXKmmob_M03pO7koVyHG8msBp64aRNM3Dj0qnyhsi-VON5OP7ZPr7wNbJRmuzMSZoaMGxMUiXzX7k-vG6jGtb-kW1QZHC6oqFAOa98yIaqwL9EzMyqlvcfYCLAXutXv63OXNYXHoqwOLRwLIxiqjVzGdKVcdJOyHHmsyLSu8sEVcB_M96U7qqsPflwrUzUe-DUPX7X4iCl_TwkCHI1piB6galkRLuNHDP5yp-i4YKGdNxDxD852Nejt9ioX_srgB8x432mAOgYWLh8pr24l9tvRifGHTniOgNcdpisI_1N1bboOcHwZy1b_bG_i1LC8spafkYjjfOhHvHQKdAJL8x818iG7WaZ2PHlMvbtPyrMY7qwoFni_noYIBgvdicGAgC63xW4YHBp7dAG1_cYCVIoEqMtkmIb5PN9SzM0ZeQ1Hl25y2cgjqU9yHRO-NXHbAAZeWnVYQkMsX2tdeeG68TT64w9N-DPqVmRDM6aCWrst44ZvwZlWRAB-ErdROgO400XHRCKwijHdErKz3mG4GilnhOTzV18tadmV-w540Ig4O0bQTJIopspa5j20EjfPKJLlpCHYjia8GRPQhWkPkcuOA6okS4dN33zTZO6Yyugddy_DApMdxfnSEEAU-A5cQ7SyrX7PRQa0NGIu47A4jEJFIwU-VQeNzQViYzrINt0DRV5mYIM8t0B7dlEPlJQHVJXMe5OIdqNo5xeTN3Us3wWqW4ZOmJSEpFeSCavnNGgIjUPASh7nvrf3kabgZd_2cdiRmRvnLKvYV7RihW4G2Bk21tVUhCcybTZWc2zM4jY2XuxHyuiGTwcDxGQSeYt_tzSX5m8nSX5nujpxva-QJQ6ZRMDD3GNgmwyfc3gztW0tNI8-mOGFFkynrk_-9IduFhLFGBr6Qfxfda1o7T-7b3_JafuXs_KdY2uCMdc-aVdDfHO0V7YJMYM3gyZ-aCDvPnmLymuKRMRzyyO7rDkamDvbfgZ8o8nxvu0D6OJh85WUXaMrRQOt8MvNPbLpkKHWumpvQ-lY66vsXuJhW2E3BYXhqsuJKj_0PzkfuNjIjZ6QIFEmI83VbUUk48lkcdRKzHvps44OZSSqqtSUKCkU-7N-_bEV97HOsBwYKKzKbl1PtI75U2ZU8wXsPh0UtF_bXHxqOmc050tuFEJXKLLsl-H23y2hf-x8cgW2gOxK96kJxQ62UBTjQe0q0EnjwsgI3jSaxWjGmI_C0H3UokcVubyHn4y3M6VhsrZ33D-4hvxuu2aYvwJagVkvWyB81zaE3oSZf6ATnQZ9IWI_JNmqB03_WKA82QB-7wqEnmO45Nk2lAcoF4O09xog8FzPxSq506SS5Y97ihCAeDDCvRHncONubtds2aWC5RkfYnY0vhQJF_NHYjbzfj0JAIUZTjzRt32PoYS956tacKPVQ1rRCfaga1EjQQAzdTVS7PQh1UirORc72QtL8KhlNAEdk6T3mBItuJ_NSSoBboH4v3z9_7kv03N8IUyUsN-LSW9MrwL9AdhE4PMgM_QbquIPBhyBWcTVpv7TW6OCUNMndUGX9wtKacNVcLwzDoXufhLksTSsUSqd8I1G-UopkP-nwdakILfIFtdGSP1r8aFLCrnbYuSZz6cml0anrDsc4pxQiBatf3uTc4BFQlxYbu-uideUua6f5RoT8E8nJ8h8ak3RqD2K00iy-u1rV25hwsEQsMqxxCnDq3bl3IGQ1kVwjQ=="
+    }
+}

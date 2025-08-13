@@ -133,7 +133,7 @@ type YoudaoResult struct {
 			Url  string `json:"url"`
 		} `json:"source"`
 
-		Word []struct {
+		/*Word struct {
 			UsPhone  string `json:"usphone"`
 			UkPhone  string `json:"ukphone"`
 			UkSpeech string `json:"ukspeech"`
@@ -149,7 +149,11 @@ type YoudaoResult struct {
 			} `json:"wfs"`
 			ReturnPhrase string `json:"return_phrase"`
 			UsSpeech     string `json:"usspeech"`
-		} `json:"word"`
+		} `json:"word"`*/
+		Special []struct {
+			Nat   string `json:"nat"`
+			Major string `json:"major"`
+		} `json:"special"`
 	} `json:"ec"`
 
 	EE struct {
@@ -431,7 +435,6 @@ func (y *Youdao) Translate() (*YoudaoResp, error) {
 		return nil, err
 	}
 	var result YoudaoResult
-	//log.Println(string(body))
 	err = sonic.Unmarshal(body, &result)
 	if err != nil {
 		return nil, err
