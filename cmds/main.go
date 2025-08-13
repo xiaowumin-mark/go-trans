@@ -14,20 +14,11 @@ func main() {
 	query, _ := reader.ReadString('\n')
 
 	y := youdao.New(query, "en")
-	d, err := y.Translate()
+	d, err := y.SimpleTranslate()
 	if err != nil {
 		panic(err)
 	}
-
-	if d.Parsed.Meta.IsHasSimpleDict == "1" { // 为单词或词组
-		log.Println("单词或词组")
-
-		log.Println("结果: ", d.Parsed.WebTrans.WebTranslation[0].Trans[0].Value)
-
-	} else {
-		log.Println("句子")
-		log.Println("结果: ", d.Parsed.Fanyi.Tran)
-	}
+	log.Println(d)
 
 }
 

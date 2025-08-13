@@ -1,6 +1,7 @@
 package youdao
 
 import (
+	"errors"
 	"io/ioutil"
 	"net/http"
 	"net/url"
@@ -441,4 +442,24 @@ func (y *Youdao) Translate() (*YoudaoResp, error) {
 	}
 
 	return &YoudaoResp{Raw: string(body), Parsed: result}, nil
+}
+
+func (y *Youdao) SimpleTranslate() (string, error) {
+	d, err := y.Translate()
+	if err != nil {
+		return "", err
+	}
+	if d.Parsed.Meta.IsHasSimpleDict == "1" { // 为单词或词组\
+		if len(d.Parsed.WebTrans.WebTranslation) == 0 || len(d.Parsed.WebTrans.WebTranslation[0].Trans) == 0 { // 句子
+			return "", errors.New("没有结果")
+		}
+
+		return d.Parsed.WebTrans.WebTranslation[0].Trans[0].Value, nil
+
+	} else {
+		if len(d.Parsed.Fanyi.Tran) == 0 { // 单词
+			return "", errors.New("没有结果")
+		}
+		return d.Parsed.Fanyi.Tran, nil
+	}
 }
