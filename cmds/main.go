@@ -22,7 +22,7 @@ func main() {
 	if d.Parsed.Meta.IsHasSimpleDict == "1" { // 为单词或词组
 		log.Println("单词或词组")
 
-		log.Println("结果: ", d.Parsed.EC.WebTrans[0])
+		log.Println("结果: ", d.Parsed.WebTrans.WebTranslation[0].Trans[0].Value)
 
 	} else {
 		log.Println("句子")
