@@ -1,15 +1,16 @@
 package main
 
 import (
-	"bufio"
+	//"bufio"
 	"log"
-	"os"
 
-	"github.com/xiaowumin-mark/go-trans/youdao"
+	"github.com/xiaowumin-mark/go-trans/bing"
+	//"os"
+	//"github.com/xiaowumin-mark/go-trans/youdao"
 )
 
 func main() {
-	reader := bufio.NewReader(os.Stdin)
+	/*reader := bufio.NewReader(os.Stdin)
 	log.Print("请输入需要翻译的内容：")
 	query, _ := reader.ReadString('\n')
 
@@ -18,7 +19,15 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	log.Println(d)
+	log.Println(d)*/
+
+	res, err := bing.BatchTranslate([]string{"hello", "Hello world"}, "en", "zh")
+	if err != nil {
+		panic(err)
+	}
+	for _, v := range res.Parsed {
+		log.Println(v.Translations[0].Text)
+	}
 
 }
 

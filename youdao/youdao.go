@@ -2,6 +2,7 @@ package youdao
 
 import (
 	"errors"
+	"fmt"
 	"io/ioutil"
 	"net/http"
 	"net/url"
@@ -431,6 +432,10 @@ func (y *Youdao) Translate() (*YoudaoResp, error) {
 		return nil, err
 	}
 	defer resp.Body.Close()
+	// 查看状态码
+	if resp.StatusCode != 200 {
+		return nil, fmt.Errorf("status code error: %d %s", resp.StatusCode, resp.Status)
+	}
 	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
