@@ -4,12 +4,6 @@
 
 这是一个基于有道翻译 API 的 Go 语言库，用于实现中英文单词、词组和句子的翻译功能。该库通过模拟 Web 请求获取有道词典的 JSON 格式翻译结果，并提供结构化数据访问。
 
-## 安装
-
-```bash
-go get github.com/xiaowumin-mark/go-trans/youdao
-```
-
 ## 快速开始
 
 ### 安装
